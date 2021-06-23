@@ -15,7 +15,7 @@
     {
       "text": "Pick up kids",
       "day": "March 23rd 7pm",
-      "reminder": true,
+      "reminder": false,
       "id": "6sev6mA"
     }
   ]
