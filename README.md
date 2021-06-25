@@ -1,5 +1,6 @@
 # vue-crash-2021
-
+This is just a simple Vuejs task tracker app, made to help me learn vue. 
+Will display a list of tasks and you can add, removed, set active/inactive and delete
 ## Project setup
 ```
 npm install
